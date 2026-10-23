@@ -3,7 +3,7 @@
 Official implementation of **PMSN: A Parallel Multi-compartment Spiking Neuron for Multi-scale Temporal Processing**, accepted for publication in **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 
 <p align="center">
-  <a href="[https://arxiv.org/abs/2408.14917](https://ieeexplore.ieee.org/abstract/document/11604167)">
+  <a href="https://ieeexplore.ieee.org/abstract/document/11604167">
   <img src="https://img.shields.io/badge/IEEE%20TNNLS-10.1109/TNNLS.2026.3708510-success.svg" alt="TNNLS">
   </a>
   <a href="https://arxiv.org/abs/2408.14917">
